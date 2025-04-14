@@ -32,7 +32,7 @@ This project involves performing Exploratory Data Analysis (EDA) on the famous T
 ---
 # Visualizations Using EDA Method
 
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Task-5---Exploratory-Data-Analysis-EDA-/blob/main/Histoplot.PNG)
 
 ## 📊 Key Steps in the Analysis
 
