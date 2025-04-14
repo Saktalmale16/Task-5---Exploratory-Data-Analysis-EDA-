@@ -1,7 +1,7 @@
 # Task-5-Exploratory-Data-Analysis-(EDA)
 # 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
 
-## 📌 Task 5 – Data Analyst Internship
+## 📌 Task 5 – Data Analyst Internship (Elevate Labs)
 
 This project involves performing Exploratory Data Analysis (EDA) on the famous Titanic dataset using Python. The goal is to identify patterns, trends, and relationships in the data through statistical and visual analysis.
 
