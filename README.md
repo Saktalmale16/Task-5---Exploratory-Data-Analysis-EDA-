@@ -1,4 +1,4 @@
-# Task-5---Exploratory-Data-Analysis-(EDA)
+# Task-5-Exploratory-Data-Analysis-(EDA)
 # 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
 
 ## 📌 Task 5 – Data Analyst Internship
@@ -68,5 +68,4 @@ This project involves performing Exploratory Data Analysis (EDA) on the famous T
 ---
 
 ## 📎 Submission Link
-[Paste your GitHub Repo Link here]
-
+[https://github.com/Saktalmale16/Task-5---Exploratory-Data-Analysis-EDA-/blob/main/README.md]
