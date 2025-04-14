@@ -41,6 +41,12 @@ This project involves performing Exploratory Data Analysis (EDA) on the famous T
 ![image alt](https://github.com/Saktalmale16/Task-5---Exploratory-Data-Analysis-EDA-/blob/main/Heatmap(correlation%20matrix).PNG)
 
 
+# CountPlot
+
+![image alt]()
+
+
+
 ## 📊 Key Steps in the Analysis
 
 1. **Data Inspection**
