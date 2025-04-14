@@ -30,6 +30,9 @@ This project involves performing Exploratory Data Analysis (EDA) on the famous T
 - Draw meaningful insights and observations.
 
 ---
+# Visualizations Using EDA Method
+
+![image alt]()
 
 ## 📊 Key Steps in the Analysis
 
