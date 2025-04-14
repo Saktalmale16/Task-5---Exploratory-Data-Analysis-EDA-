@@ -38,8 +38,7 @@ This project involves performing Exploratory Data Analysis (EDA) on the famous T
 
 # HEATMAP
 
-![image alt](https://github.com/Saktalmale16/Task-5---Exploratory-Data-Analysis-EDA-/blob/main/Histoplot.PNG)
-
+![image alt](https://github.com/Saktalmale16/Task-5---Exploratory-Data-Analysis-EDA-/blob/main/Heatmap(correlation%20matrix).PNG)
 
 
 ## 📊 Key Steps in the Analysis
